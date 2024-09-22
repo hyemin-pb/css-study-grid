@@ -1,4 +1,4 @@
-<a href="https://hyemin12.github.io/css-grid/" target="_blank"><img src="./CSS_Grid.png" alt="css grid" /></a>
+<a href="https://hyemin-pb.github.io/css-study-grid/" target="_blank"><img src="./CSS_Grid.png" alt="css grid" /></a>
 
 이미지를 클릭해서 사이트로 이동하세요.
 
